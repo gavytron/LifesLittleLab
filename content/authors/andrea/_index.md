@@ -1,24 +1,24 @@
 ---
 # Display name
-title: 吳恩達
+title: Andrea
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - andrea
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: R Instructor
+role: Tech Guru
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Bangkok
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Digital wizardry behind the scenes, coding our interstellar journey with geeky precision.
 
 interests:
   - Artificial Intelligence
@@ -61,4 +61,4 @@ user_groups:
   - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Behind every cosmic pilot is an incredible co-pilot, and that's me, Andrea! 🛠️ The guy ensuring our spaceship stays up and running. When I'm not coding fun challenges on CodinGame or marvelling at Stoicism, I'm mirroring Pristy’s healthy vibes, from pumping iron 🏋️ to popping supplements 💊. While you might not hear much from me, just know, every pixel you love on this site has a bit of my geeky touch! 😉

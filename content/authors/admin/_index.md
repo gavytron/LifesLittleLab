@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Pristy
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Python Instructor
+role: Life Navigator
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Bangkok
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Your pilot on this interstellar journey called 'Life’s Little Lab'.
 
 interests:
   - Artificial Intelligence
@@ -52,7 +52,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -60,4 +60,4 @@ user_groups:
   - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hey there, cosmic travelers! I'm Pristy 🚀, your pilot on this interstellar journey called 'Life’s Little Lab'. When I'm not geeking out over Stoicism 📖 or decoding the latest in AI 🤖, you’ll find me whipping up a sugar-free treat 🍰, dancing away, or even immersed in the digital world (code is poetry, right?). But, here’s a secret: everything I share, I swear by. From sunrise workouts 🏋️‍♀️ to mindful munching 🥑, I live and breathe what I preach. Ready to join the ride? Let's glow and grow together! 💫
