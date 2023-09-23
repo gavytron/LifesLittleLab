@@ -12,7 +12,7 @@ The Silent Assassin Among Us 💔: ASCVD Unveiled
 ## Overview
 Think of ASCVD as the uninvited party crasher. It sneaks in quietly and often wreaks havoc without you even noticing. Unravel the mysteries of this silent assassin and discover why it's humanity's #1 unspoken villain.
 
-{{< icon name="clock" pack="fas" >}} xx minutes reading time
+{{< icon name="clock" pack="fas" >}} Estimated reading time: 2 minutes, 50 seconds.
 
 ## ASCVD...what?
 
