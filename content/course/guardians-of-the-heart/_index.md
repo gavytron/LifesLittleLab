@@ -1,7 +1,7 @@
 ---
-title: Guardians of the Heart - Building Your Defense Squad 🛡️
+title: Guardians of the Heart - Defeat the deadliest killer
 linkTitle: Guardians of the heart
-summary: "Early defense: The secret to a heart that beats longer."
+summary: "Early defense: the secret to preventing Heart Attacks and Strokes."
 date: '2023-09-16'
 type: book
 tags:
@@ -14,12 +14,13 @@ tags:
 
 ## Why Dive into This Topic?
 
-Unbeknownst to many, a discreet foe might be lurking in our bodies from a young age. The silent drain clog of our arteries ('ASCVD'), often undetected until it's too late, has a widespread grip on humanity. The good news? It's largely preventable. By delving into this topic, you arm yourself with knowledge, unveiling strategies to outsmart this silent adversary and lead a heart-happy life.
+Did you know that a hidden danger called 'ASCVD' (artery clogging) begins in our bodies from a young age? It can stay undetected until the first heart attack and stroke. It's the main reason why people die worldwide. The good news? It's largely preventable. This topic will show you how to keep yourself and your loved ones safe and healthy for a longer time.
 
 
 ## Overview
 
-From the unsuspecting whispers of ASCVD in our younger years to the world-changing research shining a light on prevention, this guide serves as a beacon for all seeking heart health. Journey with us as we explore the silent progression of ASCVD, the medical breakthroughs offering hope, and the essential role of preventive healthcare. Let's rewrite our heart story, one beat at a time.
+This guide will help you understand how artery clogging (ASCVD) slowly affects us from our youth and how recent scientific discoveries can prevent it. It's all about taking care of your arteries' health now. Let's rewrite our heart story, one beat at a time!
+
 
 
 ## Sections in this topic
